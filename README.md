@@ -24,3 +24,10 @@ The purpose of this project was to use pick one of many datasets related to diff
 
 
 ## Summary:
+
+- Reviews produced by the non-Vine showed a slightly higher tendancy to positive reviews than Paid reviews indicating a bias towards giving higher ratings.
+- For the filtered sample, there was a 40.61% of 5-Star reviews given by Vine versus a 45.37% of 5-Star reviews by non-Vine members.
+- 106 / 261 ratings by Vine were 5-Stars
+- 10899 / 24040 ratings by others were 5-Stars
+- Total sample of Vine Reviews were much smaller than the population (Less than 0.011%), but out of this sample there was a stronger inclination to give higher ratings.
+- Further analysis can be done using other datasets to indicate which products have stronger bias than others.
